@@ -107,3 +107,5 @@ dist
 docs/
 
 .idea/
+/.DS_Store
+/example/.DS_Store
